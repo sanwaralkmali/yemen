@@ -4,7 +4,7 @@ import { Play, Pause, X, Volume2, VolumeX } from 'lucide-react';
 const videos = [
   {
     id: 1,
-    src: 'https://www.facebook.com/reel/3828038950782387',
+    src: 'https://drive.google.com/drive/folders/1zF5aWg_XUOMv0o2dy9NuVLHaYYG8HuD0?usp=sharing',
     poster: 'https://t3.ftcdn.net/jpg/03/18/58/16/240_F_318581608_vxQ0BFzrGoA6lC4MWxt4NLrrKrvxJ0q5.jpg',
     title: 'Nature Bloom',
     description: ' '
