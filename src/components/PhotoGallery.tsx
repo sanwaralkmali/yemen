@@ -208,7 +208,7 @@ const photos = [
     id: 32,
     src: "https://i.pinimg.com/736x/ba/10/8f/ba108f8873d5aa97cb382f66021e2cc1.jpg",
     alt: "Traditional Yemeni architecture blending with Nature",
-    category: "Aden"
+    category: "Hadramout"
   },
   {
     id: 33,
