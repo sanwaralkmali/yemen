@@ -6,63 +6,63 @@ const photos = [
   {
     id: 1,
     src: 'https://plus.unsplash.com/premium_photo-1670689707643-f36b72da4405?q=80&w=1915&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    alt: 'Sanaa Old City',
-    category: 'Historical Architecture '
+    alt: 'Yemeni Flag',
+    category: 'Yemeni flag'
   },
   {
     id: 2,
-    src: 'https://plus.unsplash.com/premium_photo-1670689707643-f36b72da4405?q=80&w=1915&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    alt: 'Nature photography',
-    category: 'Historical Architecture '
+    src: 'https://i.pinimg.com/736x/fc/8c/1c/fc8c1c4bc4108a15e7fa0ea50d78ba7b.jpg',
+    alt: 'Sanaa Old City',
+    category: 'Sana\'a'
   },
   {
     id: 3,
-    src: 'https://plus.unsplash.com/premium_photo-1670689707643-f36b72da4405?q=80&w=1915&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    src: 'https://media.istockphoto.com/id/149081119/tr/foto%C4%9Fraf/traditional-yemen-houses-sanaa.jpg?s=1024x1024&w=is&k=20&c=4v_ousMWg1m330Zd4Q8FFj3i9wHbOTpaQJjyq8BJYA4=',
     alt: 'Old buildings',
-    category: 'Historical Architecture '
+    category: 'Sana\'a'
   },
   {
     id: 4,
-    src: 'https://plus.unsplash.com/premium_photo-1670689707643-f36b72da4405?q=80&w=1915&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    alt: 'Shibam Hadramout',
-    category: 'Historical Architecture '
+    src: 'https://media.istockphoto.com/id/152960953/tr/foto%C4%9Fraf/panorama-of-sanaa-at-night-yemen.jpg?s=1024x1024&w=is&k=20&c=uU_Xtr_G1k-K3OpXmp50u2823uVfl5UIJ5jSpTRvp6k=',
+    alt: 'Sanaa Old City',
+    category: 'Sana\'a'
   },
   {
     id: 5,
-    src: 'https://plus.unsplash.com/premium_photo-1670689707643-f36b72da4405?q=80&w=1915&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    alt: 'Sheharah Bridge',
-    category: 'Historical Architecture'
+    src: 'https://i.pinimg.com/736x/3e/b8/9c/3eb89ca92f50cc4c936a5c834893e972.jpg',
+    alt: 'Jambiya',
+    category: 'Culutral heritage'
   },
   {
     id: 6,
-    src: 'https://plus.unsplash.com/premium_photo-1670689707643-f36b72da4405?q=80&w=1915&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    alt: 'Sanaa Old City',
-    category: 'Historical buildings'
+    src: 'https://i.pinimg.com/736x/98/28/cc/9828cc90aaf7044f8b296bc2a30e4fdc.jpg',
+    alt: 'Yemeni Weman',
+    category: 'People'
   },
   {
     id: 7,
-    src: 'https://plus.unsplash.com/premium_photo-1670689707643-f36b72da4405?q=80&w=1915&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    alt: 'Nature photography',
-    category: 'Nature'
+    src: 'https://i.pinimg.com/736x/7b/d4/38/7bd438206c71a75260456a45bb1efce3.jpg',
+    alt: 'Jambiya',
+    category: 'Culutral heritage'
   },
   {
     id: 8,
-    src: 'https://plus.unsplash.com/premium_photo-1670689707643-f36b72da4405?q=80&w=1915&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    alt: 'Landscape photography',
-    category: 'Landscape'
+    src: 'https://i.pinimg.com/736x/00/0f/51/000f5103899829bcb0d5594a40fe87d9.jpg',
+    alt: 'Yemeni Food',
+    category: 'Food'
   },
   {
     id: 9,
-    src: 'https://plus.unsplash.com/premium_photo-1670689707643-f36b72da4405?q=80&w=1915&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    alt: ' ',
-    category: ' Nature'
+    src: 'https://i.pinimg.com/736x/9f/66/a3/9f66a3d7c05fbc93162db5a6055b8f1f.jpg',
+    alt: 'Yemen',
+    category: 'Culutral heritage'
   }
   ,
   {
     id: 10,
-    src: 'https://plus.unsplash.com/premium_photo-1670689707643-f36b72da4405?q=80&w=1915&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    src: 'https://v1.pinimg.com/videos/mc/720p/85/5f/09/855f09efe368191753152be9075cdebc.mp4',
     alt: ' ',
-    category: ' Nature'
+    category: 'Yemen'
   }
   ,
   {
