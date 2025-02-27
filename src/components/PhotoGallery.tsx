@@ -244,7 +244,7 @@ const photos = [
     "id": 38,
     "src": "https://scontent-ist1-1.xx.fbcdn.net/v/t39.30808-6/424972307_1569476337200696_1786384984043300778_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ssjq49oIBA0Q7kNvgEQVOx3&_nc_oc=AdiSjcExSPhuc1Q2jqVoYJO_olTVaKxanozqkqi2b6yx68CoxoaXynB7mDCRb-uS9mXVx4UUJXObp2fhm0imQo69&_nc_zt=23&_nc_ht=scontent-ist1-1.xx&_nc_gid=AHsg9WayrWexdvEwSRIO0SC&oh=00_AYBeicj8pNFHlWYhLpERkVQGvMs4OQ9Z8l6qHxxPIRDJ_A&oe=67C68FC3",
     "alt": "Nature",
-    "category": "Nature"
+    "category": "Taiz"
   },
   {
     "id": 39,
@@ -376,7 +376,7 @@ const photos = [
     "id": 60,
     "src": "https://scontent-ist1-2.xx.fbcdn.net/v/t39.30808-6/480566074_936069922012473_3944270033549850784_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=r4sn33zuggsQ7kNvgFE3Eeh&_nc_oc=AdgJjoLiSvIo8g0wIVWE_T5u7Whb0pynpJoBx6DoLbSYHmAMcow11Njmhdnr1MHteN5OwmPjY8dJeChKSRqMSDrV&_nc_zt=23&_nc_ht=scontent-ist1-2.xx&_nc_gid=AMRgkT0mV_7ZesQo1ZDbFbE&oh=00_AYBOr2yxiSM3QpHkTrfd5Oj80-YByYOpOmE2tfqxDwk1uQ&oe=67C6A258",
     "alt": "A scenic view of the ancient ruins of Sheba, reflecting the rich history of Yemen",
-    "category": "Sheba"
+    "category": "Saba"
   },
 
   {
