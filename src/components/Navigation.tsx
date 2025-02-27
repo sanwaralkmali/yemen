@@ -53,7 +53,6 @@ export const Navigation: React.FC = () => {
             <li><a href="#" className="hover:text-purple-400 transition-colors" onClick={() => setIsOpen(false)}>Home</a></li>
             <li><a href="#photos" className="hover:text-purple-400 transition-colors" onClick={() => setIsOpen(false)}>Photos</a></li>
             <li><a href="#videos" className="hover:text-purple-400 transition-colors" onClick={() => setIsOpen(false)}>Videos</a></li>
-            <li><a href="#about" className="hover:text-purple-400 transition-colors" onClick={() => setIsOpen(false)}>About</a></li>
           </ul>
         </div>
       )}

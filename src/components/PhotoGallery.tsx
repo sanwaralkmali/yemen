@@ -168,33 +168,33 @@ const photos = [
   ,
   {
     id: 26,
-    src: '/assets/pictures/26.jpg',
+    src: 'https://img.freepik.com/free-vector/vector-illustration-ukrainian-folk-seamless-pattern-ornament-ethnic-ornament-border-element-traditional-ukrainian-belarusian-folk-art-knitted-embroidery-pattern-vyshyvanka_1217-285.jpg?t=st=1740677549~exp=1740681149~hmac=73fe734b67d1641885498650e563696ccf767835b7f9b3ed262e11d8d3839794&w=1380',
     alt: ' ',
     category: ' Nature'
   }
   ,
   {
     id: 27,
-    src: '/assets/pictures/27.jpg',
+    src: 'https://i.pinimg.com/736x/2e/c5/58/2ec5583fba7d1970898da1f96a537c98.jpg',
     alt: ' ',
     category: ' Nature'
   }
   ,
   {
     id: 28,
-    src: '/assets/pictures/28.jpg',
+    src: 'https://i.pinimg.com/736x/6d/b4/7e/6db47edb80a05c6c1b1a043d4141fa1f.jpg',
     alt: ' ',
     category: ' Nature'
   },
   {
     id: 29,
-    src: '/assets/pictures/29.jpg',
+    src: 'https://i.pinimg.com/736x/34/c5/58/34c558a535cd9fd963c09336fcecf5c6.jpg',
     alt: ' ',
     category: ' Nature'
   },
   {
     id: 30,
-    src: '/assets/pictures/30.jpg',
+    src: 'https://i.pinimg.com/736x/c7/c0/2f/c7c02f865362d43b699031796feffe6d.jpg',
     alt: ' ',
     category: ' Nature'
   }
