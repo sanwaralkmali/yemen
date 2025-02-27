@@ -4,29 +4,29 @@ import { Play, Pause, X, Volume2, VolumeX } from 'lucide-react';
 const videos = [
   {
     id: 1,
-    src: '../../public/assets/videos/1.mp4',
-    poster: '../../public/assets/posters/1.png',
+    src: '/assets/videos/1.mp4',
+    poster: '/assets/posters/1.png',
     title: 'Nature Bloom',
     description: ' '
   },
   {
     id: 2,
-    src: '../../public/assets/videos/2.mp4',
-    poster: '../../public/assets/posters/2.png',
+    src: '/assets/videos/2.mp4',
+    poster: '/assets/posters/2.png',
     title: 'Ocean Waves',
     description: ''
   },
   {
     id: 3,
-    src: '../../public/assets/videos/3.mp4',
-    poster: '../../public/assets/posters/3.png',
+    src: '/assets/videos/3.mp4',
+    poster: '/assets/posters/3.png',
     title: 'Forest Stream',
     description: ''
   },
   {
     id: 4,
-    src: '../../public/assets/videos/4.mp4',
-    poster: '../../public/assets/posters/4.png',
+    src: '/assets/videos/4.mp4',
+    poster: '/assets/posters/4.png',
     title: 'Sky View',
     description: ''
   }
@@ -34,30 +34,30 @@ const videos = [
   ,
   {
     id: 5,
-    src: '../../public/assets/videos/5.mp4',
-    poster: '../../public/assets/posters/5.png',
+    src: '/assets/videos/5.mp4',
+    poster: '/assets/posters/5.png',
     title: 'Sky View',
     description: ''
   },
 
   {
     id: 6,
-    src: '../../public/assets/videos/6.mp4',
-    poster: '../../public/assets/posters/6.png',
+    src: '/assets/videos/6.mp4',
+    poster: '/assets/posters/6.png',
     title: 'Sky View',
     description: ''
   },
   {
     id: 7,
-    src: '../../public/assets/videos/7.mp4',
-    poster: '../../public/assets/posters/7.png',
+    src: '/assets/videos/7.mp4',
+    poster: '/assets/posters/7.png',
     title: 'Sky View',
     description: ''
   },
   {
     id: 8,
-    src: '../../public/assets/videos/8.mp4',
-    poster: '../../public/assets/posters/8.png',
+    src: '/assets/videos/8.mp4',
+    poster: '/assets/posters/8.png',
     title: 'Sky View',
     description: ''
   },

@@ -5,196 +5,196 @@ import { X } from 'lucide-react';
 const photos = [
   {
     id: 1,
-    src: '../../public/assets/pictures/1.jpg',
+    src: '/assets/pictures/1.jpg',
     alt: 'Sanaa Old City',
     category: 'Historical Architecture '
   },
   {
     id: 2,
-    src: '../../public/assets/pictures/2.jpg',
+    src: '/assets/pictures/2.jpg',
     alt: 'Nature photography',
     category: 'Historical Architecture '
   },
   {
     id: 3,
-    src: '../../public/assets/pictures/3.jpg',
+    src: '/assets/pictures/3.jpg',
     alt: 'Old buildings',
     category: 'Historical Architecture '
   },
   {
     id: 4,
-    src: '../../public/assets/pictures/4.jpg',
+    src: '/assets/pictures/4.jpg',
     alt: 'Shibam Hadramout',
     category: 'Historical Architecture '
   },
   {
     id: 5,
-    src: '../../public/assets/pictures/5.jpg',
+    src: '/assets/pictures/5.jpg',
     alt: 'Sheharah Bridge',
     category: 'Historical Architecture'
   },
   {
     id: 6,
-    src: '../../public/assets/pictures/6.jpg',
+    src: '/assets/pictures/6.jpg',
     alt: 'Sanaa Old City',
     category: 'Historical buildings'
   },
   {
     id: 7,
-    src: '../../public/assets/pictures/7.jpg',
+    src: '/assets/pictures/7.jpg',
     alt: 'Nature photography',
     category: 'Nature'
   },
   {
     id: 8,
-    src: '../../public/assets/pictures/8.jpg',
+    src: '/assets/pictures/8.jpg',
     alt: 'Landscape photography',
     category: 'Landscape'
   },
   {
     id: 9,
-    src: '../../public/assets/pictures/9.jpg',
+    src: '/assets/pictures/9.jpg',
     alt: ' ',
     category: ' Nature'
   }
   ,
   {
     id: 10,
-    src: '../../public/assets/pictures/10.jpg',
+    src: '/assets/pictures/10.jpg',
     alt: ' ',
     category: ' Nature'
   }
   ,
   {
     id: 11,
-    src: '../../public/assets/pictures/11.jpg',
+    src: '/assets/pictures/11.jpg',
     alt: ' ',
     category: ' Nature'
   }
   ,
   {
     id: 12,
-    src: '../../public/assets/pictures/12.jpg',
+    src: '/assets/pictures/12.jpg',
     alt: ' ',
     category: ' Nature'
   },
   {
     id: 13,
-    src: '../../public/assets/pictures/13.jpg',
+    src: '/assets/pictures/13.jpg',
     alt: ' ',
     category: ' Nature'
   },
   {
     id: 14,
-    src: '../../public/assets/pictures/14.jpg',
+    src: '/assets/pictures/14.jpg',
     alt: ' ',
     category: ' Nature'
   },
   {
     id: 15,
-    src: '../../public/assets/pictures/15.jpg',
+    src: '/assets/pictures/15.jpg',
     alt: ' ',
     category: ' Nature'
   },
   {
     id: 16,
-    src: '../../public/assets/pictures/16.jpg',
+    src: '/assets/pictures/16.jpg',
     alt: ' ',
     category: ' Nature'
   }
   ,
   {
     id: 17,
-    src: '../../public/assets/pictures/17.jpg',
+    src: '/assets/pictures/17.jpg',
     alt: ' ',
     category: ' Nature'
   }
   ,
   {
     id: 18,
-    src: '../../public/assets/pictures/18.jpg',
+    src: '/assets/pictures/18.jpg',
     alt: ' ',
     category: ' Nature'
   }
   ,
   {
     id: 19,
-    src: '../../public/assets/pictures/19.jpg',
+    src: '/assets/pictures/19.jpg',
     alt: ' ',
     category: ' Nature'
   }
   ,
   {
     id: 20,
-    src: '../../public/assets/pictures/20.jpg',
+    src: '/assets/pictures/20.jpg',
     alt: ' ',
     category: ' Nature'
   }
   ,
   {
     id: 21,
-    src: '../../public/assets/pictures/21.jpg',
+    src: '/assets/pictures/21.jpg',
     alt: ' ',
     category: ' Nature'
   }
   ,
   {
     id: 22,
-    src: '../../public/assets/pictures/22.jpg',
+    src: '/assets/pictures/22.jpg',
     alt: ' ',
     category: ' Nature'
   }
   ,
   {
     id: 23,
-    src: '../../public/assets/pictures/23.jpg',
+    src: '/assets/pictures/23.jpg',
     alt: ' ',
     category: ' Nature'
   }
   ,
   {
     id: 24,
-    src: '../../public/assets/pictures/24.jpg',
+    src: '/assets/pictures/24.jpg',
     alt: ' ',
     category: ' Nature'
   }
   ,
   {
     id: 25,
-    src: '../../public/assets/pictures/25.jpg',
+    src: '/assets/pictures/25.jpg',
     alt: ' ',
     category: ' Nature'
   }
   ,
   {
     id: 26,
-    src: '../../public/assets/pictures/26.jpg',
+    src: '/assets/pictures/26.jpg',
     alt: ' ',
     category: ' Nature'
   }
   ,
   {
     id: 27,
-    src: '../../public/assets/pictures/27.jpg',
+    src: '/assets/pictures/27.jpg',
     alt: ' ',
     category: ' Nature'
   }
   ,
   {
     id: 28,
-    src: '../../public/assets/pictures/28.jpg',
+    src: '/assets/pictures/28.jpg',
     alt: ' ',
     category: ' Nature'
   },
   {
     id: 29,
-    src: '../../public/assets/pictures/29.jpg',
+    src: '/assets/pictures/29.jpg',
     alt: ' ',
     category: ' Nature'
   },
   {
     id: 30,
-    src: '../../public/assets/pictures/30.jpg',
+    src: '/assets/pictures/30.jpg',
     alt: ' ',
     category: ' Nature'
   }

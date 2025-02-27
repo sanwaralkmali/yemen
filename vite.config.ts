@@ -7,4 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  base: '/YEMEN-Ex/', // Set the base path to match your repository name
 });
