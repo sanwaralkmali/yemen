@@ -5,7 +5,7 @@ const videos = [
   {
     id: 1,
     src: 'https://www.facebook.com/reel/3828038950782387',
-    poster: '/assets/posters/1.png',
+    poster: 'https://t3.ftcdn.net/jpg/03/18/58/16/240_F_318581608_vxQ0BFzrGoA6lC4MWxt4NLrrKrvxJ0q5.jpg',
     title: 'Nature Bloom',
     description: ' '
   },
