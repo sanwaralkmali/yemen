@@ -35,7 +35,7 @@ const photos = [
   },
   {
     id: 6,
-    src: '/pictures/6.jpg',
+    src: '../../public/assets/pictures/6.jpg',
     alt: 'Sanaa Old City',
     category: 'Historical buildings'
   },
