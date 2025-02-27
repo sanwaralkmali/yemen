@@ -105,7 +105,7 @@ const photos = [
   ,
   {
     id: 17,
-    src: '/assets/pictures/17.jpg',
+    src: 'yemen/assets/pictures/17.jpg',
     alt: ' ',
     category: ' Nature'
   }
